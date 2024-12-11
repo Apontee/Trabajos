@@ -1,0 +1,10 @@
+C:\Users\colga\source\repos\GestionTareasPendientes\bin\Debug\GestionTareasPendientes.exe.config
+C:\Users\colga\source\repos\GestionTareasPendientes\bin\Debug\GestionTareasPendientes.exe
+C:\Users\colga\source\repos\GestionTareasPendientes\bin\Debug\GestionTareasPendientes.pdb
+C:\Users\colga\source\repos\GestionTareasPendientes\obj\Debug\GestionTareasPendientes.csproj.AssemblyReference.cache
+C:\Users\colga\source\repos\GestionTareasPendientes\obj\Debug\GestionTareasPendientes.Form1.resources
+C:\Users\colga\source\repos\GestionTareasPendientes\obj\Debug\GestionTareasPendientes.Properties.Resources.resources
+C:\Users\colga\source\repos\GestionTareasPendientes\obj\Debug\GestionTareasPendientes.csproj.GenerateResource.cache
+C:\Users\colga\source\repos\GestionTareasPendientes\obj\Debug\GestionTareasPendientes.csproj.CoreCompileInputs.cache
+C:\Users\colga\source\repos\GestionTareasPendientes\obj\Debug\GestionTareasPendientes.exe
+C:\Users\colga\source\repos\GestionTareasPendientes\obj\Debug\GestionTareasPendientes.pdb
